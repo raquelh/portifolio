@@ -1,0 +1,162 @@
+head{
+    margin: 0px;
+}
+body{
+    background-color: rgb(00, 00, 00);
+
+}
+header h1{
+	font-family: 'Homemade Apple', cursive;
+	font-size: 5em;
+	text-align: center;
+	color: #ffffff;
+}
+
+header{
+	background-color: #E03F0F; 
+	border-radius: 40px;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-bottom: 0px;
+}
+nav button{
+    background-color: #F8F8FF;
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    width: 15%;
+    padding-bottom:10px;
+    padding-top: 10px;
+    padding-left: 5px; 
+    height: 100%;
+    font-size: 2m;
+    /*position: center;*/
+}
+nav {
+    display: inline-block;
+	margin-top: 0px;
+	list-style-type: none;
+    padding: 5px;
+    background-color:#F8F8FF;
+    border-radius: 5px;
+    width: 70%;
+
+}
+nav li{
+    margin-left: 5px;
+    margin-right: 40%;
+    display: inline-block;
+}
+.menu{
+	background-color: #FF7A21;
+}
+.nome{
+    margin-right:3px ;
+}
+section{
+	background-color: #FF7A21;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	border-radius: 5px;
+}
+
+.topbar{
+	background-color: #000000;
+	padding:7px;
+	position: right;
+    right: 50%;
+    margin: 0%;
+    border-bottom: 3px solid #F8F8FF;
+}
+.topbar h2{
+    color:#F8F8FF;
+}
+.dadosPessoais{
+    background-image:url(verde.jpeg);
+    width: auto;
+    height: 350px;
+    text-color: #ffffff;
+
+}
+.dadosPessoais h4{
+    color: #ffffff;
+    border-bottom: 3px solid #000000;
+
+}
+.dadosPessoais p{
+    color: #ffffff;
+ 
+}
+.formacao{
+    background-image:url(azul.jpeg);
+    width: auto;
+    height: 400px;
+    
+}
+.formacao h3{
+    color: #ffffff;
+    border-bottom: 3px solid #000000;
+}
+.formacao p{
+    color: #ffffff;
+    text-align: center;
+}
+
+.habilidades{
+    background-image:url(vermelho.jpeg);
+    width: auto;
+    height: 400px;
+    
+}
+.habilidades h3{
+    color: #ffffff;
+    border-bottom: 3px solid #000000;
+}
+.habilidades p{
+    a :link{
+        text-decoration: none;
+        color: #F8F8FF;
+    }
+    a :visited{
+        text-decoration: none;
+        color: #F8F8FF;
+    } color: #ffffftext-decoration: none;f;
+    text-align: center;
+}
+
+.trabalhos{
+    background-image:url(cinza.jpeg);
+    width: auto;
+    height: 400px;
+    
+}
+.trabalhos h3{
+    color: #ffffff;
+    border-bottom: 3px solid #000000;
+}
+a:link {
+    color:#ffffff;
+ }
+ 
+ /* link que foi visitado */
+ a:visited {
+     color: #ffffff;
+ }
+ 
+ /* mouse over */
+ a:hover {
+     color: #000000;
+ }
+ 
+ /* link selecionado */
+ a:active {
+     color:#ffffff;
+ }
+.topbar :h4{
+    font-family: fantasy;
+}
+
+    
